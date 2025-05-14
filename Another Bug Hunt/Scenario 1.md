@@ -1,8 +1,12 @@
 ## Prologue
 Location: Orbitting Sama VI
-Characters: Maas [[_NPC Characters]]
-Anders, stocky experienced pilot.
-Reinfield, chatty chewing copilot
+Characters [[_NPC Characters]]: 
+- Maas 
+- Anders, stocky experienced pilot.
+- Reinfield, chatty chewing copilot
+- Kaplan (deceased)
+- LCpl (deceased)
+
 Ship name: Metamorphosis. J2C-I Executive Transport.
 
 Characters wake up from cryosleep. 
@@ -13,7 +17,7 @@ Go around table doing introductions.
 Maas will describe the job.
 
 Smells bad. Alarms are blaring. Ship is creaking and shaking.
-THe pilots struggle to control the craft due to a severe **tropical storm**
+The pilots struggle to control the craft due to a severe **tropical storm**
 
 ==fear save==
 

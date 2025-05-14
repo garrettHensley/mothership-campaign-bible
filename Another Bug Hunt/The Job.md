@@ -30,3 +30,12 @@ hive mind “orders.”
 All but emergency power is out, and a
 powerful tropical storm is rolling in...
 
+---
+The year is 3025. At least on Earth's planetside. 
+But time didn't really mean the same thing anymore. Not out here, at least. Not when your kids or grandkids suddenly are older than you are. 
+Not after putting yourself in and out of the cryo freezer again and again and again. 
+There's some that still can't handle it, thinking that each time they go in reality changes. Or a lingering thought that keeps you awake at night, about how stupid it is to hand over your entire faculties to another human being or machine to babysit your body while you lay lifelessly for years sometimes decades. Hell. It is stupid.
+
+The voice bounced off the bulkhead of Cryocontainment and into the corridor. It was a pre-recorded podcast from a popular Neo Christian studio back in Sol system. 
+Maas, your corporate liaison plugged his headphones into the radio, silencing it.
+

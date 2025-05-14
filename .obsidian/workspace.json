@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Another Bug Hunt/Scenario 1.md",
+                "file": "Another Bug Hunt/The Job.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scenario 1"
+              "title": "The Job"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Scenario 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +184,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "acb508a924dc4c9c",
+  "active": "ed29854f25951d2a",
   "lastOpenFiles": [
     "Another Bug Hunt/The Job.md",
     "Another Bug Hunt/Scenario 1.md",
+    "Another Bug Hunt/_NPC Characters.md",
     "Session 00.md",
     "(Hinton)_NPC Characters.md",
-    "Another Bug Hunt/_NPC Characters.md",
     "Roster.md",
     "Another Bug Hunt",
     "_Resources.md",
